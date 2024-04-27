@@ -1,0 +1,7 @@
+name: Signs
+version: '${project.version}'
+main: ch.ksrminecraft.signs.Signs
+api-version: '1.20'
+commands:
+  sign:
+    description: Ein Schild mit einem Text erzeugen und platzieren
